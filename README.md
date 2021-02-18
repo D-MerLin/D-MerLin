@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="30%" align="right" alt="Github" src="https://github.com/D-MerLin/D-MerLin/blob/main/ai.svg" />
+<img width="38%" align="right" alt="Github" src="https://github.com/D-MerLin/D-MerLin/blob/main/ai.svg" />
 
 - 👨🏽‍💻 I’m currently a graduate student from ECNU;
 - 🌱 I’m currently learning artificial intelligence; 
