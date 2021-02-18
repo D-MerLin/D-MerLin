@@ -12,6 +12,10 @@ You can use the website to generate badges: https://shields.io/
   <img align="left" alt="MerLin's github" width="80px" src="https://visitor-badge.glitch.me/badge?page_id=D-MerLin.D-MerLin" />
 </a>
 
+<a href="https://github.com/D-MerLin">
+  <img align="left" alt="MerLin's github" width="130px" src="https://img.shields.io/badge/dynamic/json?color=000000&label=Github&query=%24.data.totalSubs&suffix=Followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DD-MerLin" />
+</a>
+
 <!--
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)
@@ -36,4 +40,4 @@ You can use the website to generate badges: https://shields.io/
 
 **Github states:**
 
-[![MerLin's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-MerLin)](https://github.com/anuraghazra/github-readme-stats)
+[![MerLin's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-MerLin&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
