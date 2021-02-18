@@ -43,11 +43,6 @@ You can use the website to generate badges: https://shields.io/
 <a href="GithubStates">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=D-MerLin&show_icons=true&theme=vue-dark" />
 </a>
-
- 
-
-**Top Langs**
-
 <a href="TopLangs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-MerLin&layout=compact&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-MerLin&theme=vue-dark" />
 </a>
