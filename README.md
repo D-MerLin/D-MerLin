@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm MerLin, a Student 👨‍🎓 from China.
+## 👋Hi, I'm MerLin. 
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -28,3 +28,7 @@ You can use the website to generate badges: https://shields.io/
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: No cola, thank you & I'm trying to reduce;
 - 📫 How to reach me: 1010779566@qq.com;
+
+
+**Github states:**
+[![MerLin's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-MerLin)](https://github.com/anuraghazra/github-readme-stats)
