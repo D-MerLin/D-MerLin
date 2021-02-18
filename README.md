@@ -40,10 +40,10 @@ You can use the website to generate badges: https://shields.io/
 
 **Github states:**
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="GithubStates">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=D-MerLin&show_icons=true&theme=vue-dark" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=D-MerLin&layout=compact" />
+<a href="TopLangs">
+  <img align="center" src="src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-MerLin&layout=compact" />
 </a>
