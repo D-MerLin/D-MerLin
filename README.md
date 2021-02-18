@@ -40,6 +40,9 @@ You can use the website to generate badges: https://shields.io/
 
 **Github states:**
 
-[![MerLin's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-MerLin&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![MerLin's Langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=D-MerLin)]
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=D-MerLin&show_icons=true&theme=vue-dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=D-MerLin&layout=compact" />
+</a>
